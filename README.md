@@ -1,10 +1,10 @@
-#JWT Authorizer by Auth0
+# JWT Authorizer by Auth0
 
-##Description
+## Description
 
-##Environment Setting
+## Environment Setting
 
-##Auth0 Basis Data
+## Auth0 Basis Data
 ```
 CLIENT_ID=
 CLIENT_SECRET=
